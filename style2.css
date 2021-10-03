@@ -1,0 +1,266 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@400;500&display=swap");
+
+body {
+  font-family: "Rubik", sans-serif;
+  overflow-x: hidden;
+}
+
+.textsearch {
+  position: absolute;
+  left: 630px;
+  top: 18px;
+  color: #828282;
+}
+
+.imgH {
+  color: #333333;
+}
+
+.telek {
+  font-family: "Rubik", sans-serif;
+  font-size: 28px;
+
+  position: absolute;
+  width: 168px;
+  height: 33px;
+  left: 808px;
+  top: 116px;
+  text-decoration: none;
+
+  font-style: normal;
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 33px;
+  text-align: right;
+
+  /* Gray 1 */
+
+  color: #333333;
+}
+.film {
+  font-family: "Rubik", sans-serif;
+  font-size: 28px;
+  text-decoration: none;
+
+  position: absolute;
+  width: 114px;
+  height: 33px;
+  left: 650px;
+  top: 116px;
+
+  font-style: normal;
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 33px;
+  text-align: right;
+
+  /* red */
+
+  color: #e5261e;
+}
+
+.btn {
+  font-family: "Rubik", sans-serif;
+  background-color: #e5261e;
+  color: #ffffff;
+  text-transform: uppercase;
+  padding: 10px 30px 10px;
+}
+
+.logoperv {
+  position: absolute;
+  left: 305px;
+  top: 270px;
+}
+
+.logo22 {
+  position: absolute;
+  left: 270px;
+  top: 480px;
+}
+
+.logorbk {
+  position: absolute;
+  left: 300px;
+  top: 670px;
+}
+
+.logoamedia {
+  position: absolute;
+  left: 300px;
+  top: 870px;
+}
+
+.perv {
+  position: absolute;
+  left: 530px;
+  top: 236px;
+  font-size: 20px;
+
+  font-family: "Rubik", sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #333333;
+}
+
+.two {
+  position: absolute;
+  left: 530px;
+  top: 420px;
+  font-size: 20px;
+
+  font-family: "Rubik", sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #333333;
+}
+
+.rbk {
+  position: absolute;
+  left: 530px;
+  top: 620px;
+  font-size: 20px;
+
+  font-family: "Rubik", sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #333333;
+}
+
+.amedia {
+  position: absolute;
+  left: 530px;
+  top: 830px;
+  font-size: 20px;
+
+  font-family: "Rubik", sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #333333;
+}
+
+.vrem {
+  position: absolute;
+  left: 530px;
+  top: 270px;
+
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.vrem22 {
+  position: absolute;
+  left: 530px;
+  top: 460px;
+
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.vremrbk {
+  position: absolute;
+  left: 530px;
+  top: 660px;
+
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.vremamedia {
+  position: absolute;
+  left: 530px;
+  top: 870px;
+
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.programm {
+  position: absolute;
+  left: 580px;
+  top: 270px;
+
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.programm22 {
+  position: absolute;
+  left: 580px;
+  top: 460px;
+
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.programmrbk {
+  position: absolute;
+  left: 580px;
+  top: 660px;
+
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.programmamedia {
+  position: absolute;
+  left: 580px;
+  top: 870px;
+
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.red {
+  color: #e5261e;
+}
+
+.footer {
+  width: 100%;
+  background-color: #f2f2f200;
+}
+
+.textFooter {
+  position: absolute;
+  top: 1200px;
+  left: 202px;
+}
+.imgf {
+  position: absolute;
+  width: 55px;
+  height: 64px;
+  left: 150px;
+  top: 1200px;
+}

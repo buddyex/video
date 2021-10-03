@@ -1,0 +1,100 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@400;500&display=swap");
+
+body {
+  font-family: "Rubik", sans-serif;
+  overflow-x: hidden;
+}
+.body0 {
+  font-size: 24px;
+}
+.body1 {
+  font-size: 20px;
+}
+.body2 {
+  font-size: 24px;
+}
+
+.textsearch {
+  position: absolute;
+  left: 630px;
+  top: 18px;
+  color: #828282;
+}
+
+.film {
+  position: absolute;
+  width: 114px;
+  height: 33px;
+  left: 650px;
+  top: 116px;
+
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 33px;
+  text-align: right;
+
+  /* red */
+
+  color: #e5261e;
+}
+
+.telek {
+  position: absolute;
+  width: 168px;
+  height: 33px;
+  left: 808px;
+  top: 116px;
+  text-decoration: none;
+
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 33px;
+  text-align: right;
+
+  /* Gray 1 */
+
+  color: #333333;
+}
+
+.imgH {
+  color: #333333;
+}
+
+.btn {
+  font-family: "Rubik", sans-serif;
+  background-color: #e5261e;
+  color: #ffffff;
+  text-transform: uppercase;
+  padding: 10px 30px 10px;
+}
+
+.imgf {
+  position: absolute;
+  width: 55px;
+  height: 64px;
+  left: 150px;
+  top: 1000px;
+}
+
+.footer {
+  width: 100%;
+  background-color: #f2f2f2;
+}
+
+.textFooter {
+  position: absolute;
+  left: 202px;
+}
+
+.film {
+  font-family: "Rubik", sans-serif;
+  font-size: 28px;
+}
+.telek {
+  font-family: "Rubik", sans-serif;
+  font-size: 28px;
+}
